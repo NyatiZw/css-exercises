@@ -2,6 +2,6 @@ div {
   color: white;
   background-color: red;
   font-size : 32px;
-  content: '\ea25';
-  content: '\f117';
+  content: '\f106';
+  font-style: bold;
 }
