@@ -1,8 +1,14 @@
 p {background-color: hsl(350, 100%, 88%);
     color:#222121;
-    font-size : 24px;}
-div {background-color: #adff2f;
-    font-size: 24px;
-    font-weight: bold;}
-div.number2 {color: blue;
+    font-family: "verdana","sans-serif";
+    font-size: 24px;}
+
+#idone {color: #0000ff;
     font-size: 36px;}
+
+#idtwo {background-color: rgb(148, 240, 202);
+   color:#222121;
+   font-size: 24px;
+   font-weight: bold;}
+
+.three {font-size: 24px;}
